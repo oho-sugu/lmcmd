@@ -1,3 +1,7 @@
+# **THIS REPOSITORY WAS DEPRECATED**
+
+# **REFER NEW VERSION https://github.com/oho-sugu/emt**
+
 # lmcmd
 
 `lmcmd`は、ローカルで動作する大規模言語モデル (LLM) を利用したコマンドラインツールです。`awk`や`sed`のように、標準入力から受け取ったテキストをLLMで処理し、その結果を標準出力へ出力します。
